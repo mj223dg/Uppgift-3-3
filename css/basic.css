@@ -84,5 +84,54 @@
 
 #content
     {
-        
+        background-color: #EAE7D2;
+        width: 600px;
+        height: 380px;
+        font-size: 12px;
+        color: #937080;
+    }
+    
+#maincontent
+    {
+        width: 370px;
+        border-right: 1px dashed #937080;
+        float: left;
+        margin: 0;
+    }
+
+#maincontent img
+    {
+        margin: 0;
+        float: left;
+        padding-right: 5px;
+    }
+
+#maincontent h1
+    {
+        font: 22px times;
+        color: #797066;
+    }
+    
+#subcontent
+    {
+        width:auto;
+        margin-left: 0;
+    }
+
+#subcontent h1
+    {
+        color: #51473D;
+        font: 19px times;
+    }
+
+#subcontent ul li a 
+    {
+        color: #51473d;
+    }
+
+#bottomcontent
+    {
+        color: #937080;
+        font: 8px;
+        float: left;
     }
